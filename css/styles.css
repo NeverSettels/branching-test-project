@@ -1,4 +1,10 @@
 h1 {
   text-align: center;
-  color: blue;
+  color: Red;
+}
+h2{
+  color: rgb(137, 26, 26);
+}
+p{
+  color: rgba(99, 7, 7, 0.938);
 }
